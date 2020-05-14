@@ -79,7 +79,7 @@ DATABASES = {
             'ENGINE': 'djongo',
             'NAME': 'pruebamongodb',
             'CLIENT': {
-                'host': "mongodb+srv://root:" +'root789'+ "@cluster0-yb6dk.mongodb.net/test"
+                'host': "mongodb+srv://root:root789@cluster0-yb6dk.mongodb.net/test"
             },   
         }
 }
